@@ -1,0 +1,17 @@
+C:\stanislav 11d\treeszaimov\treeszaimov\bin\Debug\net8.0-windows\Trees.exe
+C:\stanislav 11d\treeszaimov\treeszaimov\bin\Debug\net8.0-windows\Trees.deps.json
+C:\stanislav 11d\treeszaimov\treeszaimov\bin\Debug\net8.0-windows\Trees.runtimeconfig.json
+C:\stanislav 11d\treeszaimov\treeszaimov\bin\Debug\net8.0-windows\Trees.dll
+C:\stanislav 11d\treeszaimov\treeszaimov\bin\Debug\net8.0-windows\Trees.pdb
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\treeszaimov.Form1.resources
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.Properties.Resources.resources
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.csproj.GenerateResource.cache
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.AssemblyInfoInputs.cache
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.AssemblyInfo.cs
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.csproj.CoreCompileInputs.cache
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.dll
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\refint\Trees.dll
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.pdb
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\Trees.genruntimeconfig.cache
+C:\stanislav 11d\treeszaimov\treeszaimov\obj\Debug\net8.0-windows\ref\Trees.dll
